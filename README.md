@@ -24,6 +24,9 @@ h6{
 }
 </style>
 
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
 ## 3. Various Types of Numbers:
 
 **( i ) Natural Numbers:** Counting numbers are called natural numbers.
