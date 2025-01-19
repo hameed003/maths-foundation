@@ -1,6 +1,7 @@
-# Number System
-
-<style>
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
 body {
   font-family: 'Fira Code';
 }
@@ -23,11 +24,22 @@ h6{
   color:cyan
 }
 </style>
-
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-
-
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex/dist/katex.min.css">
+  <script defer src="https://cdn.jsdelivr.net/npm/katex/dist/katex.min.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/katex/dist/contrib/auto-render.min.js"></script>
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+      renderMathInElement(document.body, {
+        delimiters: [
+          { left: "$$", right: "$$", display: true },
+          { left: "\\(", right: "\\)", display: false }
+        ]
+      });
+    });
+  </script>
+</head>
+<body>
 
 ## 3. Various Types of Numbers:
 
@@ -238,3 +250,9 @@ $\therefore$ 29435417 is divisible by 11.
 (Sum of its digits at odd places) - (Sum of its digits at even places) = (2 + 8 +6 + 7) - ( 2 + 3 + 4 + 5) = (23-14) = 9, which is not divisible by 11.
 
 $\therefore$ 57463822 is not divisible by 11.
+
+</body>
+</html>
+# Number System
+
+
