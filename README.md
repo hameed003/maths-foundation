@@ -40,7 +40,8 @@ h6{
   </script>
 </head>
 <body>
-
+# Number System
+  
 ## 3. Various Types of Numbers:
 
 **( i ) Natural Numbers:** Counting numbers are called natural numbers.
@@ -253,6 +254,6 @@ $\therefore$ 57463822 is not divisible by 11.
 
 </body>
 </html>
-# Number System
+
 
 
