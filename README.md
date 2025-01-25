@@ -1,238 +1,115 @@
- <style>
-body {
-  font-family: 'Fira Code';
-}
-h1{
-  color:#FFFF00
-}
-h2{
- color:#00FF00
-}
-h3{
-  color:#BF00FF
-}
-h4{
-  color:#FF00FF
-}
-h5{
-  color:#00FF7F
-}
-h6{
-  color:cyan
-}
-</style>
+# maths-foundation
 
-# Number System
-  
-## 3. Various Types of Numbers:
+## 1: Number System Basics
 
-**( i ) Natural Numbers:** Counting numbers are called natural numbers.
+a: Number system
 
-Thus 1, 2, 3, 4, 5, 6, .... are all natural numbers.
+b: Divisibility
 
-**( ii ) Whole Numbers:** All counting numbers and 0 form the set of whole numbers.
+c: Factors
 
-Thus 0, 1, 2, 3, 4, 5, .... etc. are whole numbers.
+d: HCF and LCM
 
-Clearly, every natural number is whole number and 0 is a
-whole number which is not a natural number.
+## 2: Averages and Problems on Ages
 
-**( iii ) Integers:** All counting numbers, zero and negatives of counting numbers form the set
-of integers.
+a: Arithmetic Mean
 
-Thus, ... , -3, -2, -1, 0, 1, 2, 3, ... are all integers.
+b: GeometricMean
 
-Set of positive integers = {1, 2, 3, 4, 5, 6, ... }
+c: Harmonic Mea
 
-Set of negative integers = {-1, -2, -3, -4, .... }
+d: Mean, Median and Mode
 
-Set of all non-negative integers = {0, 1, 2, 3, 4, 5, ... }.
+## 3: Percentages
 
-## 4. Even And Odd Numbers:
+a: Basic Concepts of Percentages
 
-**( i ) Even Numbers:** A counting number divisible by 2 is called an even number.
+b: Successive Discounts
 
-Thus 0, 2, 4, 6, 8, 10, 12, .... etc. are all even numbers.
+c: Increase and Decrease in Percentage
 
-**( ii ) Odd Numbers:** A counting number not divisible by 2 is called an odd number.
+## 4: Profit and Loss
 
-Thus 1, 3, 5, 7, 9, 11, 13, 15, .... etc. are all odd numbers.
+a: Basics of Profit and Loss
 
-## 5. Prime Numbers:
+b: Formulas to calculate Profit & Loss
 
-A counting number is called a prime number if it has exactly two factors, namely itself and 1.
+c: Profit Percentage
 
-**Ex.** All prime numbers less than 100 are:
-2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97.
+## 5: Ratio and Proportion
 
-**Test For a Number To be Prime:**
+a: Basics of Ratio and Proportion
 
-Let **p** be a given number and let **n** be the smallest counting number such that $\mathbf{n^2 \geq p}$.
+b: Continued Proportion
 
-Now, test whether **p** is divisible by any of the prime numbers less than or equal to **n**.
-If yes, the **p** is not prime otherwise, **p** is prime.
+c: Comparison of Ratios
 
-**Ex.** Test, which of the following are prime numbers ?
+## 6: Partnership
 
-(i) 137 (ii) 173 (iii) 319 (iv) 437 (v) 811
+## 7: Mixtures and Allegations
 
-#### Solution.
+## 8: Simple Interest and Compound Interest
 
-**(i)** We know that $(12)^2$ > 137.
+a: Understanding of Simple and Compound Interest
 
-Prime numbers less than 2 are 2, 3, 5, 7, 11
+b: EMI Calculation
 
-Clearly, none of them divides 137.
+## 9: Work and Time
 
-$\therefore$ 137 is a prime number.
+a: Basics onWork
 
----
+b: Time and Work Formula and Application
 
-**(ii)** We known that $(14)^2$> 173
+c: Pipes and Cisterns
 
-Prime numbers less than 14 are 2, 3, 5, 7, 11, 13.
+d: Chain Rule
 
-Clearly, none of them divides 173.
+## 10: Geometry and Trigonometry
 
-$\therefore$ 173 is a prime number.
+a: Basics on Geometry and Trigonometry
 
----
+b: Types, methodologies, and terminologies of geometry.
 
-**(iii)** We know that $(18)^2$> 319.
+c: Formulas of functions of Trigonometry
 
-Prime numbers less than 18 are 2, 3, 5, 7, 11, 13, 17.
+## 11: Speed, Distance and Time
 
-Out of these prime numbers, 11 divides 319 completely.
+a: Basics of Speed Distance and Time
 
-$\therefore$ 319 is not a prime number.
+b: Average Speed
 
----
+c: Relative Speed
 
-**(iv)** We know that $(21)^2$ > 437.
+d: Problems on Trains Boats and Streams
 
-Prime numbers less than 21 are 2, 3, 5, 7, 11; 13, 17, 19
+e: Problems on Boat
 
-Clearly, 437 is divisible by 19.
+## 12: Permutation and Combination
 
-$\therefore$ 437 is not a prime number.
+a: Basics of Permutation and Combination
 
----
+b: Representation of Permutationand Combination
 
-(v) We know that (30)2 > 811.
+c: Problems on Permutation and Combination
 
-Prime numbers less than 30 are 2, 3, 5, 7, 11, 13, 17, 19, 23, 29
+## 13: Probability
 
-Clearly, none of these numbers divides 811.
+a: Basics of Probability
 
-$\therefore$ 811 is a prime number.
+b: Variables and Distributions
 
----
+c: Problems on Permutation, Combination and Probability
 
-## 6.Composite Numbers:
+## 14: Introduction to Tables and Graph
 
-The natural numbers which are not prime, are called composite numbers.
+a: Vertical Bar Charts.
 
-## 7. Co Primes:
+b: Histogram.
 
-Two natural numbers a and b are said to be co-prime if their HCF is 1.
+c: Horizontal Bar
 
-**Ex.** (2, 3), (4, 5), (7, 9), (8, 11) etc. are pairs of co-primes.
+d: Pie Charts.
 
-## TESTS OF DIVISIBILITY
+e: Line Charts
 
-**I. Divisibility By 2:**
-
-A number is divisible by 2 if its unit digit is any of 0, 2, 4, 6, 8.
-
-**Ex.** 58694 is divisible by 2, while 86945 is not divisible by 2.
-
----
-
-**II. Divisibility By 3:**
-
-A number is divisible by 3 only when the sum of its digits is divisible by 3.
-
-**Ex.** (i) In the number 695421, the sum of digits = 27, which is divisible by 3.
-
-$\therefore$ 695421 is divisible by 3.
-
-(ii) In the number 948653, the sum of digits = 35, which is not divisible by 3.
-
-$\therefore$ 948653 is not divisible by 3.
-
----
-
-**III. Divisibility BY 9:**
-
-A number is divisible by 9 only when the sum of its digits is divisible by 9.
-
-**Ex.** (i) In the number 246591, the sum of digits = 27, which is divisible by 9.
-
-$\therefore$ 246591 is divisible by 9.
-
-(ii) In the number 734519, the sum of digits = 29, which is not divisible by 9.
-
-$\therefore$ 734519 is not divisible by 9.
-
----
-
-**IV. Divisibility By 4:**
-
-A number is divisible by 4 if the sum of it's last two digits is divisible by 4.
-
-**Ex.** (i) 6879376 is divisible by 4, since 76 is divisible by 4.
-
-(ii) 496138 is not divisible by 4, since 38 is not divisible by 4.
-
----
-
-**V. Divisibility By 8:**
-
-A number is divisible by 8 if the number formed by hundred's ten's and unit's digit of the given number is divisible by 8.
-
-**Ex.** (i) In the number 16789352, the number formed by last 3 digits, namely 352 is divisible by 8.
-
-$\therefore$ 16789352 is divisible by 8.
-
-(ii) In the number 576484, the number formed by last 3 digits, namely 484 is not divisible by 8.
-
-$\therefore$ 576484 is not divisible by 8.
-
----
-
-**VI. Divisibility By 10:**
-
-A number is divisible by 10 only when it's unit digit is 0.
-
-**Ex.** (i) 7849320 is divisible by 10, since its unit digits is 0.
-
-(ii) 678405 is not divisible by 10, since it's unit digit is not 0.
-
----
-
-**VII. Divisibility By 5:**
-
-A number is divisible by 5 only when it's unit digit is 0 or 5.
-
-**Ex.** Each of the numbers 76895 and 68790 is divisible by 5.
-
----
-
-**VIII. Divisibility By 11:**
-
-A number is divisible by 11 if the difference between the sum of its digits at odd places and the sum of its digits at even places is either 0 or a number divisible by 11.
-
-**Ex.** (i) Consider the number 29435417
-
-(Sum of its digits at odd places) - (Sum of its digits at even places) = (7 + 4 + 3 + 9) - (1 + 5 + 4 + 2) = (23 - 12) = 11, which is divisible by 11.
-
-$\therefore$ 29435417 is divisible by 11.
-
-(ii) Consider the number 57463822.
-
-(Sum of its digits at odd places) - (Sum of its digits at even places) = (2 + 8 +6 + 7) - ( 2 + 3 + 4 + 5) = (23-14) = 9, which is not divisible by 11.
-
-$\therefore$ 57463822 is not divisible by 11.
-
-
-
+f: And other Graphs and Tables
