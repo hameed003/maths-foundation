@@ -102,6 +102,11 @@ $$
 
 - **Definition**: Complex numbers include real and imaginary numbers in the form **$a + bi$**, where **$i = \sqrt{-1} $**.
 - **Set Notation**: $C = \{  a + bi \mid a, b \in R$, $i = \sqrt{-1}  \}$
+
+$$
+\mathbb{C} = \left\lbrace a + bi \mid a, b \in \mathbb{R}, i = \sqrt{-1} \right\rbrace
+$$
+
 - **Properties**:
   - If **b** = **0** , then **a** + **0i** = **a** ( real number ).
   - If **a** = **0**, then **0** + **bi** = **bi** ( pure imaginary number ).
