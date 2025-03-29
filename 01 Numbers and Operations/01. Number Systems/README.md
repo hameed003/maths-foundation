@@ -52,7 +52,7 @@ Here is a detailed explanation of **Number Systems** with proper examples:
 ## **4. Rational Numbers (Q)**
 
 - **Definition**: A rational number is any number that can be expressed in the form **$\frac{p}{q}$** where **p** and **q** are integers, and **$q ≠ 0$**.
-- **Set Notation**: $Q = \left\{\frac{p}{q} \mid p, q \in Z, q \neq 0 \right\}$
+- **Set Notation**: $$Q = \left\{\frac{p}{q} \mid p, q \in Z, q \neq 0 \right\}$$
 - **Properties**:
   - Rational numbers include integers, fractions, and terminating/repeating decimals.
   - Rational numbers are **closed under addition, subtraction, multiplication, and division** ( except division by zero ).
@@ -75,9 +75,9 @@ Here is a detailed explanation of **Number Systems** with proper examples:
   - $\sqrt{2} = 1.414213... $( cannot be written as a fraction ).
   - $e = 2.718281828... $( Euler’s number ).
 - **Example**:
-  - $\sqrt{3} + 2 $is irrational.
-  - $\pi - 5 $is irrational.
-  - $0.101001000100001000001... $is irrational ( no repeating pattern ).
+  - $\sqrt{3} + 2$ is irrational.
+  - $\pi - 5$ is irrational.
+  - $0.101001000100001000001... $ is irrational ( no repeating pattern ).
 
 ---
 
