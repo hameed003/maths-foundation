@@ -24,12 +24,4 @@ $$
 Q = \left\lbrace \frac{p}{q} \mid p, q \in \mathbb{Z}, q \neq 0 \right\rbrace
 $$
 
-Q = $\left\lbrace{ \frac{p}{q} \mid p, q \in \mathbb{Z}, q \neq 0 \right\rbrace}$
-
-$$
-Q = $\left\lbrace{ \frac{p}{q} \mid p, q \in \mathbb{Z}, q \neq 0 \right\rbrace}$
-$$
-
-$$
-Q = \{ \frac{p}{q} \mid p, q \in \mathbb{Z}, q \neq 0 \}
-$$
+$Q = \left\lbrace \frac{p}{q} \mid p, q \in \mathbb{Z}, q \neq 0 \right\rbrace$
