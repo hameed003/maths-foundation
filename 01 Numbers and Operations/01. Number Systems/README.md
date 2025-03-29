@@ -55,7 +55,14 @@ Here is a detailed explanation of **Number Systems** with proper examples:
 - **Set Notation**:
 
 $$
-Q = \left\{\frac{p}{q} \mid p, q \in Z, q \neq 0 \right\}
+\det(A) = \begin{vmatrix}
+a & b \\
+c & d
+\end{vmatrix}
+$$
+
+$$
+\Q = \left\{\frac{p}{q} \mid p, q \in Z, q \neq 0 \right\}
 $$
 
 - **Properties**:
