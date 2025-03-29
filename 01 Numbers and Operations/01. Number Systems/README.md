@@ -55,16 +55,7 @@ Here is a detailed explanation of **Number Systems** with proper examples:
 - **Set Notation**:
 
 $$
-\det(A) = \begin{vmatrix}
-a & b \\
-c & d
-\end{vmatrix}
-$$
-
-$\mathbb{Q} = \left\{ \frac{p}{q} \mid p, q \in \mathbb{Z}, q \neq 0 \right\}$
-
-$$
-\mathbb{Q} = \left\{ \frac{p}{q} \;\middle|\; p, q \in \mathbb{Z},\ q \neq 0 \right\}
+Q = \left\lbrace \frac{p}{q} \mid p, q \in \mathbb{Z}, q \neq 0 \right\rbrace
 $$
 
 - **Properties**:
