@@ -256,15 +256,15 @@ Complex Numbers (C)
 
 ## **Summary Table**
 
-| Number System              | Definition                                                                 | Example                        |
-| -------------------------- | -------------------------------------------------------------------------- | ------------------------------ |
-| **Natural Numbers (N)**    | Counting numbers starting from 1                                           | 1, 2, 3, 4, …                  |
-| **Whole Numbers (W)**      | Natural numbers + 0                                                        | 0, 1, 2, 3, 4, …               |
-| **Integers (Z)**           | Positive and negative whole numbers                                        | -3, -2, -1, 0, 1, 2, 3         |
-| **Rational Numbers (Q)**   | Numbers written as $\frac{p}{q} $, where $ p, q$ are integers & $q \neq 0$ | $\frac{3}{4} $, -2, 0.5        |
-| **Irrational Numbers (I)** | Non-repeating, non-terminating decimals                                    | $\pi$, $\sqrt{2}$, e           |
-| **Real Numbers (R)**       | Rational + Irrational numbers                                              | -5, 0, 2.5, $\sqrt{3}$, $\pi $ |
-| **Complex Numbers (C)**    | Numbers in the form $a + bi$                                               | 3 + 4i , $i = \sqrt{-1}$       |
+| Number System              | Definition                                                               | Example                       |
+| -------------------------- | ------------------------------------------------------------------------ | ----------------------------- |
+| **Natural Numbers (N)**    | Counting numbers starting from 1                                         | 1, 2, 3, 4, …                 |
+| **Whole Numbers (W)**      | Natural numbers + 0                                                      | 0, 1, 2, 3, 4, …              |
+| **Integers (Z)**           | Positive and negative whole numbers                                      | -3, -2, -1, 0, 1, 2, 3        |
+| **Rational Numbers (Q)**   | Numbers written as $\frac{p}{q}$, where $p, q$ are integers & $q \neq 0$ | $\frac{3}{4}$, -2, 0.5        |
+| **Irrational Numbers (I)** | Non-repeating, non-terminating decimals                                  | $\pi$, $\sqrt{2}$, e          |
+| **Real Numbers (R)**       | Rational + Irrational numbers                                            | -5, 0, 2.5, $\sqrt{3}$, $\pi$ |
+| **Complex Numbers (C)**    | Numbers in the form $a + bi$                                             | 3 + 4i , $i = \sqrt{-1}$      |
 
 ---
 
