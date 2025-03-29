@@ -63,9 +63,9 @@ $$
   - Rational numbers are **closed under addition, subtraction, multiplication, and division** ( except division by zero ).
 - **Example**:
   - $\frac{3}{4}$, $-\frac{7}{2}$, and 5 ( since $5 = \frac{5}{1}$ ).
-  - $\frac{3}{4}$+ $\frac{1}{2}$= $\frac{3}{4}$+ $\frac{2}{4}$= $\frac{5}{4}$( rational ).
+  - $\frac{3}{4}$+ $\frac{1}{2}$= $\frac{3}{4}$+ $\frac{2}{4}$= $\frac{5}{4}$ ( rational ).
   - 0.75 is rational because it can be written as $\frac{3}{4}$.
-  - **Repeating Decimal**: $0.\overline{3}$= $\frac{1}{3}$( rational ).
+  - **Repeating Decimal**: $0.\overline{3}$= $\frac{1}{3}$ ( rational ).
 
 ---
 
