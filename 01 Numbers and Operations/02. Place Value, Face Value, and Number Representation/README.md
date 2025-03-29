@@ -108,7 +108,7 @@ Number representation refers to the **various ways numbers can be expressed**, i
 
    - Example: **5,678**
 
-     $ = (5 × 1000) + (6 × 100) + (7 × 10) + (8 × 1)$
+     $= (5 × 1000) + (6 × 100) + (7 × 10) + (8 × 1)$
 
      $= 5000 + 600 + 70 + 8$
 
