@@ -5,7 +5,7 @@ Here is a detailed explanation of **Number Systems** with proper examples:
 ## **1. Natural Numbers (N)**
 
 - **Definition**: Natural numbers are the counting numbers starting from **1, 2, 3, 4, …**
-- **Set Notation**: N = { 1, 2, 3, 4, 5, $\dots$}
+- **Set Notation**: $\mathbb{N}$ = $\left\lbrace 1, 2, 3, 4, 5, \dots\right\rbrace$
 - **Properties**:
   - The smallest natural number is **1**.
   - There is no largest natural number ( infinite set ).
