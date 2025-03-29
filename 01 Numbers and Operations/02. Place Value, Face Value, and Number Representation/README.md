@@ -146,7 +146,7 @@ Each system has a different base, meaning the position of a digit carries differ
    - Number: **1011₂**
    - Place Values:
 
-     $(1 × 2^3) + (0 × 2^2) + (1 × 2^1) + (1 × 2^0) = 8 + 0 + 2 + 1$ = 11₁₀
+     $(1 × 2^3) + (0 × 2^2) + (1 × 2^1) + (1 × 2^0) = 8 + 0 + 2 + 1$ = $11$₁₀
 
    - Decimal equivalent: **11**
 
@@ -155,7 +155,7 @@ Each system has a different base, meaning the position of a digit carries differ
    - Number: **257₈**
    - Place Values:
 
-     $(2 × 8^2) + (5 × 8^1) + (7 × 8^0) = 128 + 40 + 7$ = 175₁₀
+     $(2 × 8^2) + (5 × 8^1) + (7 × 8^0) = 128 + 40 + 7$ = $175$₁₀
 
 4. **Hexadecimal (Base-16) Example**
 
@@ -166,7 +166,7 @@ Each system has a different base, meaning the position of a digit carries differ
 
      - **A = 10, F = 15**
 
-     $(10 × 256) + (3 × 16) + (15 × 1) = 2560 + 48 + 15$ = 2623₁₀
+     $(10 × 256) + (3 × 16) + (15 × 1) = 2560 + 48 + 15$ = $2623$₁₀
 
 ---
 
