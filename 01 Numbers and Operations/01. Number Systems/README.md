@@ -55,7 +55,7 @@ Here is a detailed explanation of **Number Systems** with proper examples:
 - **Set Notation**: $\mathbb{Q}$ = $\left\lbrace \frac{p}{q} \mid p, q \in \mathbb{Z}, q \neq 0 \right\rbrace$
 
 $$
-Q = \left\lbrace \frac{p}{q} \mid p, q \in \mathbb{Z}, q \neq 0 \right\rbrace
+$\mathbb{Q}$ = \left\lbrace \frac{p}{q} \mid p, q \in \mathbb{Z}, q \neq 0 \right\rbrace
 $$
 
 - **Properties**:
