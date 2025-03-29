@@ -108,10 +108,10 @@ $$
 $$
 
 - **Properties**:
-  - If **b** = **0** , then **a** + **0i** = **a** ( real number ).
-  - If **a** = **0**, then **0** + **bi** = **bi** ( pure imaginary number ).
+  - If **b** = **0** , then **a** + **$0i$** = **a** ( real number ).
+  - If **a** = **0**, then **$0** + **bi$** = **$bi$** ( pure imaginary number ).
 - **Example**:
-  - **3** + **4i** is a complex number.
+  - **$3** + **4i$** is a complex number.
   - $i^2 = -1$.
   - $(2 + 3i)$+ $(4 - i)$= $6 + 2i$.
 
