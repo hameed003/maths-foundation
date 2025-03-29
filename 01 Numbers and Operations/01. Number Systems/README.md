@@ -82,7 +82,7 @@ $$
 - **Example**:
   - $\sqrt{3} + 2$ is irrational.
   - $\pi - 5$ is irrational.
-  - $0.101001000100001000001... $ is irrational ( no repeating pattern ).
+  - $0.101001000100001000001...$ is irrational ( no repeating pattern ).
 
 ---
 
