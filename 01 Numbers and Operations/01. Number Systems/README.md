@@ -5,7 +5,7 @@ Here is a detailed explanation of **Number Systems** with proper examples:
 ## **1. Natural Numbers (N)**
 
 - **Definition**: Natural numbers are the counting numbers starting from **1, 2, 3, 4, …**
-- **Set Notation**: $\mathbb{N}$ = $\left\lbrace 1, 2, 3, 4, 5, \dots\right\rbrace$
+- **Set Notation**: $\mathbb{N}$ = $\left\lbrace 1, 2, 3, 4, 5, \dots \right\rbrace$
 - **Properties**:
   - The smallest natural number is **1**.
   - There is no largest natural number ( infinite set ).
@@ -37,7 +37,7 @@ Here is a detailed explanation of **Number Systems** with proper examples:
 ## **3. Integers (Z)**
 
 - **Definition**: Integers include **positive numbers, negative numbers, and zero**.
-- **Set Notation**: Z = { $\dots$, -3, -2, -1, 0, 1, 2, 3, $\dots$}
+- **Set Notation**: $\mathbb{Z}$ = $\left\lbrace \dots$, -3, -2, -1, 0, 1, 2, 3, $\dots \right\rbrace$
 - **Properties**:
   - **Closed under addition, subtraction, and multiplication**.
   - **Not closed under division** ( Example: $5 \div 2 = 2.5$, which is not an integer ).
@@ -52,7 +52,7 @@ Here is a detailed explanation of **Number Systems** with proper examples:
 ## **4. Rational Numbers (Q)**
 
 - **Definition**: A rational number is any number that can be expressed in the form **$\frac{p}{q}$** where **p** and **q** are integers, and **$q ≠ 0$**.
-- **Set Notation**:
+- **Set Notation**: $Q = \left\lbrace \frac{p}{q} \mid p, q \in \mathbb{Z}, q \neq 0 \right\rbrace$
 
 $$
 Q = \left\lbrace \frac{p}{q} \mid p, q \in \mathbb{Z}, q \neq 0 \right\rbrace
