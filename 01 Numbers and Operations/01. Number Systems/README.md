@@ -63,7 +63,9 @@ $$
 
 $\mathbb{Q} = \left\{ \frac{p}{q} \mid p, q \in \mathbb{Z}, q \neq 0 \right\}$
 
-$\mathbb{Q} = \left\{ \frac{p}{q} \;\middle|\; p, q \in \mathbb{Z},\ q \neq 0 \right\}$
+$$
+\mathbb{Q} = \left\{ \frac{p}{q} \;\middle|\; p, q \in \mathbb{Z},\ q \neq 0 \right\}
+$$
 
 - **Properties**:
   - Rational numbers include integers, fractions, and terminating/repeating decimals.
