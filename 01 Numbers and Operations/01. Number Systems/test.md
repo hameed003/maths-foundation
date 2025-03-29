@@ -19,3 +19,7 @@
 ---
 
 Q = $ \{ \frac{p}{q} \mid p, q \in \mathbb{Z}, q \neq 0 \} $
+
+$$
+Q = \{ \frac{p}{q} \mid p, q \in \mathbb{Z}, q \neq 0 \}
+$$
