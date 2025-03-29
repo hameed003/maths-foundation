@@ -18,7 +18,13 @@
 
 ---
 
-Q = $ \{ \frac{p}{q} \mid p, q \in \mathbb{Z}, q \neq 0 \} $
+$$
+Q = $\left\{ \frac{p}{q} \mid p, q \in \mathbb{Z}, q \neq 0 \right\}$
+$$
+
+$$
+Q = \left\{ \frac{p}{q} \mid p, q \in \mathbb{Z}, q \neq 0 \right\}
+$$
 
 $$
 Q = \{ \frac{p}{q} \mid p, q \in \mathbb{Z}, q \neq 0 \}
