@@ -1,7 +1,9 @@
 ## **4. Rational Numbers (Q)**
 
 - **Definition**: A rational number is any number that can be expressed in the form **$\frac{p}{q}$** where **p** and **q** are integers, and **q ≠ 0**.
-- **Set Notation**: $Q = \left\{\frac{p}{q} \mid p, q \in Z, q \neq 0 \right\}$
+- **Set Notation**: $Q = $ \left\{\frac{p}{q} \mid p, q \in Z, q \neq 0 \right\}$
+
+- **Set Notation**: $Q = $\left\{\frac{p}{q} \mid p, q \in Z, q \neq 0 \right\}$
 - **Properties**:
   - Rational numbers include integers, fractions, and terminating/repeating decimals.
   - Rational numbers are **closed under addition, subtraction, multiplication, and division** (except division by zero).
