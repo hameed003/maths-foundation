@@ -94,7 +94,7 @@ $$
   - Includes **natural numbers, whole numbers, integers, rational numbers, and irrational numbers**.
   - Real numbers can be represented on a number line.
 - **Example**:
-  - 2, -7, $\frac{3}{4}$, $\sqrt{5}$, and $\pi$are all real numbers.
+  - 2, -7, $\frac{3}{4}$, $\sqrt{5}$, and $\pi$ are all real numbers.
 
 ---
 
