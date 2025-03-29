@@ -206,6 +206,10 @@ Scientific notation represents numbers as a product of a number between 1 and 10
 
 $N = a × 10^b$
 
+$$
+N = a × 10^b
+$$
+
 Where:
 
 - **a** is a number between 1 and 10.
