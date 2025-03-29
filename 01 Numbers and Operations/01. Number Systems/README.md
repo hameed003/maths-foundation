@@ -104,7 +104,7 @@ $$
 - **Set Notation**: $C = \{  a + bi \mid a, b \in R$, $i = \sqrt{-1}  \}$
 
 $$
-\mathbb{C} = \left\lbrace a + bi \mid a, b \in \mathbb{R}, i = \sqrt{-1} \right\rbrace
+\mathbb{C} = \left\lbrace   a + bi \mid a, b \in \mathbb{R}, i = \sqrt{-1}   \right\rbrace
 $$
 
 - **Properties**:
