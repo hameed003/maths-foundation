@@ -205,7 +205,7 @@ Scientific notation represents numbers as a product of a number between 1 and 10
 ### **Formula**
 
 $$
-N = a × 10^b
+N = a × 10^{b}
 $$
 
 Where:
@@ -216,11 +216,11 @@ Where:
 ### **Examples**
 
 1. **Large Numbers**
-   - $5,600,000 → 5.6 × 10^6$
-   - $250,000,000 → 2.5 × 10^8$
+   - $5,600,000 → 5.6 × 10^{6}$
+   - $250,000,000 → 2.5 × 10^{8}$
 2. **Small Numbers**
-   - $0.00045 → 4.5 × 10^-4$
-   - $0.00000089 → 8.9 × 10^-7$
+   - $0.00045 → 4.5 × 10^{-4}$
+   - $0.00000089 → 8.9 × 10^{-7}$
 
 ---
 
