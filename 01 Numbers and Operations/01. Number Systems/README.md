@@ -101,7 +101,7 @@ $$
 ## **7. Complex Numbers (C)**
 
 - **Definition**: Complex numbers include real and imaginary numbers in the form **$a + bi$**, where **$i = \sqrt{-1} $**.
-- **Set Notation**: $C = \{  a + bi \mid a, b \in R$, $i = \sqrt{-1}  \}$
+- **Set Notation**:
 
 $$
 \mathbb{C} = \left\lbrace   a + bi \mid a, b \in \mathbb{R}, i = \sqrt{-1}   \right\rbrace
