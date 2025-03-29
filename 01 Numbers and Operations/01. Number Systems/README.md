@@ -52,7 +52,7 @@ Here is a detailed explanation of **Number Systems** with proper examples:
 ## **4. Rational Numbers (Q)**
 
 - **Definition**: A rational number is any number that can be expressed in the form **$\frac{p}{q}$** where **p** and **q** are integers, and **$q ≠ 0$**.
-- **Set Notation**: $Q = \left\lbrace \frac{p}{q} \mid p, q \in \mathbb{Z}, q \neq 0 \right\rbrace$
+- **Set Notation**: $\mathbb{Q}$ = $\left\lbrace \frac{p}{q} \mid p, q \in \mathbb{Z}, q \neq 0 \right\rbrace$
 
 $$
 Q = \left\lbrace \frac{p}{q} \mid p, q \in \mathbb{Z}, q \neq 0 \right\rbrace
