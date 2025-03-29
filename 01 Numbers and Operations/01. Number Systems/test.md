@@ -17,3 +17,5 @@
   - **Repeating Decimal**: $0.\overline{3} = \frac{1}{3}$ (rational).
 
 ---
+
+Q = $ \{ \frac{p}{q} \mid p, q \in \mathbb{Z}, q \neq 0 \} $
