@@ -1,4 +1,4 @@
-# Content List Of All Common Topics From Class 1 To 12:
+# Content List - All Topics From Class 1 To 12:
 
 Here is a **combined list of all Mathematics topics and subtopics** from **Class 1 to Class 12** based on the CBSE curriculum. I have removed repetitions and merged common topics.
 
