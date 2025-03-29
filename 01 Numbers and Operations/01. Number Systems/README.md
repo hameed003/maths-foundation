@@ -5,7 +5,7 @@ Here is a detailed explanation of **Number Systems** with proper examples:
 ## **1. Natural Numbers (N)**
 
 - **Definition**: Natural numbers are the counting numbers starting from **1, 2, 3, 4, …**
-- **Set Notation**: N = { 1, 2, 3, 4, 5, $\dots $}
+- **Set Notation**: N = { 1, 2, 3, 4, 5, $\dots$}
 - **Properties**:
   - The smallest natural number is **1**.
   - There is no largest natural number ( infinite set ).
@@ -21,7 +21,7 @@ Here is a detailed explanation of **Number Systems** with proper examples:
 ## **2. Whole Numbers (W)**
 
 - **Definition**: Whole numbers include all natural numbers along with **zero**.
-- **Set Notation**: W = { 0, 1, 2, 3, 4, 5, $\dots$ }
+- **Set Notation**: W = { 0, 1, 2, 3, 4, 5, $\dots$}
 - **Properties**:
   - The smallest whole number is **0**.
   - Whole numbers are closed under **addition** and **multiplication**.
@@ -37,10 +37,10 @@ Here is a detailed explanation of **Number Systems** with proper examples:
 ## **3. Integers (Z)**
 
 - **Definition**: Integers include **positive numbers, negative numbers, and zero**.
-- **Set Notation**: Z = { $\dots$, -3, -2, -1, 0, 1, 2, 3, $\dots$ }
+- **Set Notation**: Z = { $\dots$, -3, -2, -1, 0, 1, 2, 3, $\dots$}
 - **Properties**:
   - **Closed under addition, subtraction, and multiplication**.
-  - **Not closed under division** ( Example: $ 5 \div 2 = 2.5$ , which is not an integer ).
+  - **Not closed under division** ( Example: $5 \div 2 = 2.5$, which is not an integer ).
 - **Example**:
   - -7, 0, and 5 are integers.
   - -7 + 5 = -2 ( integer ).
@@ -51,33 +51,33 @@ Here is a detailed explanation of **Number Systems** with proper examples:
 
 ## **4. Rational Numbers (Q)**
 
-- **Definition**: A rational number is any number that can be expressed in the form **$ \frac{p}{q}$** where **p** and **q** are integers, and **$ q ≠ 0$**.
+- **Definition**: A rational number is any number that can be expressed in the form **$\frac{p}{q}$** where **p** and **q** are integers, and **$q ≠ 0$**.
 - **Set Notation**: $Q = \left\{\frac{p}{q} \mid p, q \in Z, q \neq 0 \right\}$
 - **Properties**:
   - Rational numbers include integers, fractions, and terminating/repeating decimals.
   - Rational numbers are **closed under addition, subtraction, multiplication, and division** ( except division by zero ).
 - **Example**:
-  - $ \frac{3}{4}$ , $ -\frac{7}{2}$ , and 5 since $ 5 = \frac{5}{1}$ .
-  - $ \frac{3}{4}$ + $ \frac{1}{2}$ = $ \frac{3}{4}$ + $ \frac{2}{4}$ = $ \frac{5}{4}$ ( rational ).
-  - 0.75 is rational because it can be written as \( \frac{3}{4} \).
-  - **Repeating Decimal**: $ 0.\overline{3}$ = $ \frac{1}{3}$ ( rational ).
+  - $\frac{3}{4}$, $-\frac{7}{2}$, and 5 since $5 = \frac{5}{1}$.
+  - $\frac{3}{4}$+ $\frac{1}{2}$= $\frac{3}{4}$+ $\frac{2}{4}$= $\frac{5}{4}$( rational ).
+  - 0.75 is rational because it can be written as $\frac{3}{4}$.
+  - **Repeating Decimal**: $0.\overline{3}$= $\frac{1}{3}$( rational ).
 
 ---
 
 ## **5. Irrational Numbers (I)**
 
-- **Definition**: An irrational number is a number that **cannot** be written in the form **$ \frac{p}{q} $**.
+- **Definition**: An irrational number is a number that **cannot** be written in the form **$\frac{p}{q} $**.
 - **Properties**:
   - The decimal expansion of an irrational number is **non-terminating and non-repeating**.
   - The sum or product of a rational and an irrational number is irrational (except in special cases).
 - **Common Irrational Numbers**:
-  - $ \pi = 3.1415926535... $ ( never repeats, never ends ).
-  - $ \sqrt{2} = 1.414213... $ ( cannot be written as a fraction ).
-  - $ e = 2.718281828... $ ( Euler’s number ).
+  - $\pi = 3.1415926535... $( never repeats, never ends ).
+  - $\sqrt{2} = 1.414213... $( cannot be written as a fraction ).
+  - $e = 2.718281828... $( Euler’s number ).
 - **Example**:
-  - $ \sqrt{3} + 2 $ is irrational.
-  - $ \pi - 5 $ is irrational.
-  - $ 0.101001000100001000001... $ is irrational ( no repeating pattern ).
+  - $\sqrt{3} + 2 $is irrational.
+  - $\pi - 5 $is irrational.
+  - $0.101001000100001000001... $is irrational ( no repeating pattern ).
 
 ---
 
@@ -89,7 +89,7 @@ Here is a detailed explanation of **Number Systems** with proper examples:
   - Includes **natural numbers, whole numbers, integers, rational numbers, and irrational numbers**.
   - Real numbers can be represented on a number line.
 - **Example**:
-  - 2, -7, $\frac{3}{4}$, $\sqrt{5}$, and $\pi$ are all real numbers.
+  - 2, -7, $\frac{3}{4}$, $\sqrt{5}$, and $\pi$are all real numbers.
 
 ---
 
@@ -102,8 +102,8 @@ Here is a detailed explanation of **Number Systems** with proper examples:
   - If **a** = **0**, then **0** + **bi** = **bi** ( pure imaginary number ).
 - **Example**:
   - **3** + **4i** is a complex number.
-  - $i^2 = -1 $.
-  - $(2 + 3i)$ + $(4 - i)$ = $6 + 2i$.
+  - $i^2 = -1$.
+  - $(2 + 3i)$+ $(4 - i)$= $6 + 2i$.
 
 ---
 
@@ -168,7 +168,7 @@ Here is a detailed explanation of **Number Systems** with proper examples:
   - The sum of two even numbers is **even**.
     - 4 + 6 = 10 ( even )
   - The product of two even numbers is **even**.
-    - $ 4 \times 6 $ = 24 ( even )
+    - $4 \times 6$= 24 ( even )
   - Even numbers always end in **0, 2, 4, 6, or 8**.
 
 **Example**:
@@ -189,7 +189,7 @@ Here is a detailed explanation of **Number Systems** with proper examples:
   - The sum of two odd numbers is **even**.
     - 3 + 5 = 8 ( even )
   - The product of two odd numbers is **odd**.
-    - $ 3 \times 5 $ = 15 ( odd )
+    - $3 \times 5$= 15 ( odd )
   - Odd numbers always end in **1, 3, 5, 7, or 9**.
 
 **Example**:
@@ -246,15 +246,15 @@ Complex Numbers (C)
 
 ## **Summary Table**
 
-| Number System              | Definition                                                                       | Example                           |
-| -------------------------- | -------------------------------------------------------------------------------- | --------------------------------- |
-| **Natural Numbers (N)**    | Counting numbers starting from 1                                                 | 1, 2, 3, 4, …                     |
-| **Whole Numbers (W)**      | Natural numbers + 0                                                              | 0, 1, 2, 3, 4, …                  |
-| **Integers (Z)**           | Positive and negative whole numbers                                              | -3, -2, -1, 0, 1, 2, 3            |
-| **Rational Numbers (Q)**   | Numbers written as $ \frac{p}{q} $, where \( p, q \) are integers & $ q \neq 0 $ | $ \frac{3}{4} $, -2, 0.5          |
-| **Irrational Numbers (I)** | Non-repeating, non-terminating decimals                                          | $ \pi$, $ \sqrt{2}$, e            |
-| **Real Numbers (R)**       | Rational + Irrational numbers                                                    | -5, 0, 2.5, $ \sqrt{3} $, $ \pi $ |
-| **Complex Numbers (C)**    | Numbers in the form \( a + bi \)                                                 | 3 + 4i , $ i = \sqrt{-1} $        |
+| Number System              | Definition                                                                 | Example                        |
+| -------------------------- | -------------------------------------------------------------------------- | ------------------------------ |
+| **Natural Numbers (N)**    | Counting numbers starting from 1                                           | 1, 2, 3, 4, …                  |
+| **Whole Numbers (W)**      | Natural numbers + 0                                                        | 0, 1, 2, 3, 4, …               |
+| **Integers (Z)**           | Positive and negative whole numbers                                        | -3, -2, -1, 0, 1, 2, 3         |
+| **Rational Numbers (Q)**   | Numbers written as $\frac{p}{q} $, where $ p, q$ are integers & $q \neq 0$ | $\frac{3}{4} $, -2, 0.5        |
+| **Irrational Numbers (I)** | Non-repeating, non-terminating decimals                                    | $\pi$, $\sqrt{2}$, e           |
+| **Real Numbers (R)**       | Rational + Irrational numbers                                              | -5, 0, 2.5, $\sqrt{3}$, $\pi $ |
+| **Complex Numbers (C)**    | Numbers in the form $a + bi$                                               | 3 + 4i , $i = \sqrt{-1}$       |
 
 ---
 
