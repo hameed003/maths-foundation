@@ -37,7 +37,7 @@ Here is a detailed explanation of **Number Systems** with proper examples:
 ## **3. Integers (Z)**
 
 - **Definition**: Integers include **positive numbers, negative numbers, and zero**.
-- **Set Notation**: $\mathbb{Z}$ = $\left\lbrace \dots$, -3, -2, -1, 0, 1, 2, 3, $\dots \right\rbrace$
+- **Set Notation**: $\mathbb{Z}$ = $\left\lbrace \dots, -3, -2, -1, 0, 1, 2, 3, \dots \right\rbrace$
 - **Properties**:
   - **Closed under addition, subtraction, and multiplication**.
   - **Not closed under division** ( Example: $5 \div 2 = 2.5$, which is not an integer ).
