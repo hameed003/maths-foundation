@@ -21,7 +21,7 @@ Here is a detailed explanation of **Number Systems** with proper examples:
 ## **2. Whole Numbers (W)**
 
 - **Definition**: Whole numbers include all natural numbers along with **zero**.
-- **Set Notation**: W = { 0, 1, 2, 3, 4, 5, $\dots$}
+- **Set Notation**: $\mathbb{W}$ = $\left\lbrace 0, 1, 2, 3, 4, 5, \dots \right\rbrace$
 - **Properties**:
   - The smallest whole number is **0**.
   - Whole numbers are closed under **addition** and **multiplication**.
