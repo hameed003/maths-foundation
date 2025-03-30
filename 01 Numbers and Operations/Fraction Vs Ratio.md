@@ -112,7 +112,7 @@ Compares **two or more quantities** of the same kind. It shows the relationship 
 
 - ### **Use Fractions**:
 
-  - When describing a portion of a single entity $\left(e.g., \frac{3}{4} of a cake\right)$.
+  - When describing a portion of a single entity $\left(e.g., \frac{3}{4}  of a cake \right)$.
   - In equations involving division or probability $\left( e.g., \frac{\text{Favorable outcomes}}{\text{Total outcomes}}\right)$.
 
 - ### **Use Ratios**:
