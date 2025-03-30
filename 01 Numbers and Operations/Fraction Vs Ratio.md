@@ -100,7 +100,7 @@ Compares **two or more quantities** of the same kind. It shows the relationship 
 - ### **Fractions**:
 
   - Can be added, subtracted, multiplied, or divided $\left(e.g., \frac{1}{2} + \frac{1}{3} = \frac{5}{6}\right)$.
-  - Represented as decimals or percentages $\left(e.g., \frac{1}{4} = 0.25 = 25\text{\%} \right)$.
+  - Represented as decimals or percentages ( e.g., $\frac{1}{4}$ = 0.25 = 25% ).
 
 - ### **Ratios**:
   - Used in proportions $\left(e.g., \frac{a}{b} = \frac{c}{d}\right)$ to solve problems.
@@ -112,7 +112,7 @@ Compares **two or more quantities** of the same kind. It shows the relationship 
 
 - ### **Use Fractions**:
 
-  - When describing a portion of a single entity $\left(e.g., \frac{3}{4}  of a cake \right)$.
+  - When describing a portion of a single entity ( e.g., $\frac{3}{4}$ of a cake ).
   - In equations involving division or probability $\left( e.g., \frac{\text{Favorable outcomes}}{\text{Total outcomes}}\right)$.
 
 - ### **Use Ratios**:
