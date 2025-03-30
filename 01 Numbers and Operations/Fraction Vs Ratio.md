@@ -100,7 +100,7 @@ Compares **two or more quantities** of the same kind. It shows the relationship 
 - ### **Fractions**:
 
   - Can be added, subtracted, multiplied, or divided $\left(e.g., \frac{1}{2} + \frac{1}{3} = \frac{5}{6}\right)$.
-  - Represented as decimals or percentages $\left(e.g., \frac{1}{4}$ = 0.25 = $25\% \right)$.
+  - Represented as decimals or percentages $\left(e.g., \frac{1}{4} = 0.25 = 25\text{\%} \right)$.
 
 - ### **Ratios**:
   - Used in proportions $\left(e.g., \frac{a}{b} = \frac{c}{d}\right)$ to solve problems.
