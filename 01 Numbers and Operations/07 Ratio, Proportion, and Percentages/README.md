@@ -218,9 +218,9 @@ So, **18:24** simplifies to **3:4**.
 
 Follow these steps to simplify a ratio:
 
-### **Step 1: Write the Ratio** (e.g., `36:48`).
+**Step 1: Write the Ratio** (e.g., `36:48`).
 
-### **Step 2: Find the Greatest Common Divisor (GCD)**
+**Step 2: Find the Greatest Common Divisor (GCD)**
 
 Find the **largest number** that divides both terms of the ratio.
 
@@ -230,11 +230,9 @@ Find the **largest number** that divides both terms of the ratio.
 - Factors of **48** = {1, 2, 3, 4, 6, 8, 12, 16, 24, 48}
 - **GCD = 12**
 
-### **Step 3: Divide Both Terms by the GCD**
+**Step 3: Divide Both Terms by the GCD**
 
-$$
-\frac{36}{12} : \frac{48}{12} = 3:4
-$$
+$$\frac{36}{12} : \frac{48}{12} = 3:4$$
 
 So, **36:48** simplifies to **3:4**.
 
