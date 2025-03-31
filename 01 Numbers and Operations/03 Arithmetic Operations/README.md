@@ -24,6 +24,10 @@ $$
 
 $A + B = C$
 
+$$
+A = B + C
+$$
+
 Where:
 
 - $A$ and $B$ are the numbers to be added.
