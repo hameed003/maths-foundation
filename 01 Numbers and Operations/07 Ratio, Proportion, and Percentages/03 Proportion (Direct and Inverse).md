@@ -75,9 +75,9 @@ This means when **one quantity increases, the other also increases**.
 - Here, as **weight increases, cost also increases**.
 - The proportion is:
 
-  $$
-  \frac{1}{50} = \frac{2}{100}
-  $$
+$$
+\frac{1}{50} = \frac{2}{100}
+$$
 
 ### **Example 2: Speed and Distance**
 
