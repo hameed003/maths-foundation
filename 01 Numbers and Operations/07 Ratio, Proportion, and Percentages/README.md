@@ -106,13 +106,13 @@ The reciprocal of a given ratio.
 - Ratios help in **solving proportion problems**.
 - **Example:** If 3 pencils cost ₹15, what is the cost of 5 pencils?
 
-  $$
-  \text{Cost per pencil} = 15 \div 3 = 5 \text{₹}
-  $$
+$$
+\text{Cost per pencil} = 15 \div 3 = 5 \text{₹}
+$$
 
-  $$
-  \text{Cost of 5 pencils} = 5 \times 5 = 25 \text{₹}
-  $$
+$$
+\text{Cost of 5 pencils} = 5 \times 5 = 25 \text{₹}
+$$
 
 #### **(d) Speed (Distance:Time)**:
 
