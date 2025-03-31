@@ -1,5 +1,3 @@
-<details><summary>Concept of Ratio – Detailed Explanation with Examples</summary>
-
 ## **Concept of Ratio – Detailed Explanation with Examples**
 
 ### **1. Definition of Ratio**
@@ -13,19 +11,9 @@ A **ratio** is a mathematical comparison between two or more quantities of the *
 📌 **Example:**  
 If a class has **10 boys** and **15 girls**, the ratio of boys to girls is:
 
-$$ \text{Ratio} = 10:15 = \frac{10}{15} = \frac{2}{3} $$
-
-&#36;&#36;
-\mathrm{Ratio} = 10:15 = \frac{10}{15} = \frac{2}{3}
-&#36;&#36;
-
 $$
-\textrm{Ratio} = 10:15 = \frac{10}{15} = \frac{2}{3}
+\text{Ratio} = 10:15 = \frac{10}{15} = \frac{2}{3}
 $$
-
-&#36;&#36;
-\text{Ratio:} 10:15 = \frac{10}{15} = \frac{2}{3}
-&#36;&#36;
 
 (After simplifying, the ratio is **2:3**)
 
@@ -199,5 +187,3 @@ In a park, there are **15 dogs and 25 cats**. What is the simplified ratio of do
 **Answer**: `15:25 = 3:5`.
 
 Ratios are everywhere—understanding them helps in daily life and advanced math! 🚀
-
-</details>
