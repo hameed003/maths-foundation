@@ -121,14 +121,15 @@ $- \ 4.7 \\$
 $$
 
 - **Example (Subtraction)**:
-  $$
-  \begin{array}{r}
-  8.5 \\
-  - \ 3.25 \\
-    \hline
-    5.25 \\
-    \end{array}
-  $$
+
+$$
+\begin{aligned}
+  & 8.50 \\
+  & -3.25 \\
+  \hline
+  & 5.25
+\end{aligned}
+$$
 
 ### **(b) Multiplication**
 
