@@ -247,10 +247,12 @@ So, **36:48** simplifies to **3:4**.
 Simplify **15:25**
 
 - **GCD of 15 and 25 = 5**
-  $$
-  \frac{15}{5} : \frac{25}{5} = 3:5
-  $$
-  ✅ **Final Answer: 3:5**
+
+$$
+\frac{15}{5} : \frac{25}{5} = 3:5
+$$
+
+✅ **Final Answer: 3:5**
 
 ---
 
