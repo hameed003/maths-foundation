@@ -103,9 +103,9 @@ So, \( 57.348 = 50 + 7 + 0.3 + 0.04 + 0.008 \).
     $$
     \begin{aligned}{r}
     15.23 \\
-    -  4.7 \\
-      \hline
-      19.93 \\
+    -4.7 \\
+    \hline
+    19.93 \\
       \end{aligned}
     $$
 
@@ -114,8 +114,8 @@ There is a mistake in the subtraction result. Let's correct it step by step:
 $$
 \begin{aligned}{r}
   15.23 \\
--  4.7 \\
-  $\hline$
+  -4.7 \\
+  \hline
   10.53 \\
 \end{aligned}
 $$
@@ -127,7 +127,7 @@ $$
    8.50  \\
    -3.25  \\
   \hline
-  &  5.25
+   5.25
 \end{aligned}
 $$
 
