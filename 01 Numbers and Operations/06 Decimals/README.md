@@ -124,10 +124,10 @@ $$
 
 $$
 \begin{aligned}
-  & 8.50 \\
-&-&3.25 \\
+  &  \phantom{-}8.50 \\  % Adds space to align with the minus below
+  & -3.25 \\
   \hline
-  & 5.25
+  &  5.25
 \end{aligned}
 $$
 
