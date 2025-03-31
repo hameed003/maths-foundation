@@ -100,16 +100,16 @@ So, \( 57.348 = 50 + 7 + 0.3 + 0.04 + 0.008 \).
 
   - **Example (Addition)**:
 
-    $$
-    \begin{aligned}
+$$
+  \begin{aligned}
       15.23 \\
       -4.70 \\
       \hline
       19.93 \\
-    \end{aligned}
-    $$
+  \end{aligned}
+$$
 
-  - **Example (Subtraction)**:
+- **Example (Subtraction)**:
 
 $$
 \begin{aligned}
