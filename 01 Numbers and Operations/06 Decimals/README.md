@@ -124,7 +124,7 @@ $$
 
 $$
 \begin{aligned}
-  &  \phantom{-}8.50 \\
+  & \phantom{-}8.50 \\
   & -3.25 \\
   \hline
   &  5.25
