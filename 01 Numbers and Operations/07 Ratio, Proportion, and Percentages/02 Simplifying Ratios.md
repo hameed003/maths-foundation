@@ -1,5 +1,3 @@
-<details><summary>Simplifying Ratios: Explanation with Examples</summary>
-
 # **Simplifying Ratios: Explanation with Examples**
 
 ## **1. What Does It Mean to Simplify a Ratio?**
@@ -217,8 +215,3 @@ If both numbers are **prime** (no common factors except 1), the ratio is already
 2. Simplify `1.2 : 3.6` → **Answer**: `1:3`.
 
 Simplifying ratios makes comparisons clearer and calculations easier! 🚀
-
-</details>
-
-<details><summary></summary>
-</details>
