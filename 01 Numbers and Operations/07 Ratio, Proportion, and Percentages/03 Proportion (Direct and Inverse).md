@@ -74,6 +74,7 @@ This means when **one quantity increases, the other also increases**.
 - If **1 kg of apples costs ₹50**, then **2 kg costs ₹100**.
 - Here, as **weight increases, cost also increases**.
 - The proportion is:
+
   $$
   \frac{1}{50} = \frac{2}{100}
   $$
@@ -83,9 +84,10 @@ This means when **one quantity increases, the other also increases**.
 - If a car moves at **60 km/h for 2 hours**, it covers **120 km**.
 - If it moves at the same speed for **4 hours**, it covers **240 km**.
 - Since distance increases with time, we write:
-  $$
-  \frac{2}{120} = \frac{4}{240}
-  $$
+
+$$
+\frac{2}{120} = \frac{4}{240}
+$$
 
 ---
 
@@ -110,18 +112,20 @@ $$
 - If **5 workers** complete a task in **10 days**,
 - Then **10 workers** will complete it in **5 days**.
 - Since increasing workers reduces time, we use inverse proportion:
-  $$
-  5 \times 10 = 10 \times 5
-  $$
+
+$$
+5 \times 10 = 10 \times 5
+$$
 
 ### **Example 2: Speed and Time**
 
 - A car takes **6 hours** to cover a distance at **50 km/h**.
 - If the speed increases to **100 km/h**, the time reduces to **3 hours**.
 - Since increasing speed decreases time, we write:
-  $$
-  50 \times 6 = 100 \times 3
-  $$
+
+$$
+50 \times 6 = 100 \times 3
+$$
 
 ---
 
