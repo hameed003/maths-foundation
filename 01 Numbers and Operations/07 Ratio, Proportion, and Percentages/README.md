@@ -1,5 +1,3 @@
-<details><summary>Concept of Ratio – Detailed Explanation with Examples</summary>
-
 ## **Concept of Ratio – Detailed Explanation with Examples**
 
 ### **1. Definition of Ratio**
@@ -201,5 +199,3 @@ In a park, there are **15 dogs and 25 cats**. What is the simplified ratio of do
 **Answer**: `15:25 = 3:5`.
 
 Ratios are everywhere—understanding them helps in daily life and advanced math! 🚀
-
-</details>
