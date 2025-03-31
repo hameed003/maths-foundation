@@ -64,9 +64,9 @@ A ratio obtained by multiplying two or more simple ratios.
 - The ratio of **B:C** is **4:5**,
 - The compound ratio **A:C** is:
 
-  $$
-  (2:3) \times (4:5) = \frac{2}{3} \times \frac{4}{5} = \frac{8}{15} = 8:15
-  $$
+$$
+(2:3) \times (4:5) = \frac{2}{3} \times \frac{4}{5} = \frac{8}{15} = 8:15
+$$
 
 #### **(c) Duplicate Ratio**
 
