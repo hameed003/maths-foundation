@@ -131,6 +131,24 @@ $$
 \end{aligned}
 $$
 
+$$
+\begin{aligned}
+  & \hphantom{-}8.50 \\
+  & -3.25 \\
+  \hline
+  & 5.25
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+  &  8.50  \\
+  & -3.25  \\
+  \hline
+  &  5.25
+\end{aligned}
+$$
+
 ### **(b) Multiplication**
 
 1. Multiply normally as whole numbers (ignore the decimal).
