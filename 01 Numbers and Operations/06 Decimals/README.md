@@ -103,21 +103,32 @@ So, \( 57.348 = 50 + 7 + 0.3 + 0.04 + 0.008 \).
     $$
     \begin{array}{r}
     15.23 \\
-    - \ 4.7 \\
+    -  4.7 \\
       \hline
       19.93 \\
       \end{array}
     $$
 
-  - **Example (Subtraction)**:
-    $$
-    \begin{array}{r}
-    8.5 \\
-    - \ 3.25 \\
-      \hline
-      5.25 \\
-      \end{array}
-    $$
+There is a mistake in the subtraction result. Let's correct it step by step:
+
+$$
+\begin{array}{r}
+  15.23 \\
+- \\ 4.7 \\
+  \hline
+  10.53 \\
+\end{array}
+$$
+
+- **Example (Subtraction)**:
+  $$
+  \begin{array}{r}
+  8.5 \\
+  - \ 3.25 \\
+    \hline
+    5.25 \\
+    \end{array}
+  $$
 
 ### **(b) Multiplication**
 
