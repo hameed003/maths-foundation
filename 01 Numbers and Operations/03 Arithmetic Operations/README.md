@@ -14,19 +14,7 @@ Addition is the process of combining two or more numbers to get a total sum.
 
 ### **Formula**
 
-$$
-A + B = C
-$$
-
-$$
-A = B + C
-$$
-
 $A + B = C$
-
-$$
-A = B + C
-$$
 
 Where:
 

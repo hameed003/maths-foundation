@@ -120,10 +120,6 @@ $$
 \end{aligned}
 $$
 
-$$
-A = B + C
-$$
-
 ### **(b) Multiplication**
 
 1. Multiply normally as whole numbers (ignore the decimal).
