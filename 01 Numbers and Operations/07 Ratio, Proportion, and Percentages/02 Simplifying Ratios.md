@@ -93,10 +93,12 @@ Simplify **`30:42:18`**
    - **GCD of 30, 42, and 18 = 6**
 
 2. Divide all terms by 6:
-   $$
-   \frac{30}{6} : \frac{42}{6} : \frac{18}{6} = 5:7:3
-   $$
-   ✅ **Final Answer: 5:7:3**
+
+$$
+\frac{30}{6} : \frac{42}{6} : \frac{18}{6} = 5:7:3
+$$
+
+✅ **Final Answer: 5:7:3**
 
 ---
 
