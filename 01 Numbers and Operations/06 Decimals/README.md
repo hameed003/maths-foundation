@@ -94,7 +94,7 @@ $$
 -9x = 3 \quad \Rightarrow \quad x = \frac{3}{-9} = -\frac{1}{3}
 $$
 
-$-9x = 3 \quad \Rightarrow \quad x = \frac{3}{-9} = -\frac{1}{3}$
+$-9x = 3 \quad \→ \quad x = \frac{3}{-9} = -\frac{1}{3}$
 
 ---
 
