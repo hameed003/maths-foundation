@@ -125,7 +125,7 @@ $$
 $$
 \begin{aligned}
   & 8.50 \\
-  & -3.25 \\
+& -3.25 \\
   \hline
   & 5.25
 \end{aligned}
