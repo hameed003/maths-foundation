@@ -63,6 +63,7 @@ A ratio obtained by multiplying two or more simple ratios.
 - The ratio of **A:B** is **2:3**,
 - The ratio of **B:C** is **4:5**,
 - The compound ratio **A:C** is:
+
   $$
   (2:3) \times (4:5) = \frac{2}{3} \times \frac{4}{5} = \frac{8}{15} = 8:15
   $$
@@ -104,9 +105,11 @@ The reciprocal of a given ratio.
 
 - Ratios help in **solving proportion problems**.
 - **Example:** If 3 pencils cost ₹15, what is the cost of 5 pencils?
+
   $$
   \text{Cost per pencil} = 15 \div 3 = 5 \text{₹}
   $$
+
   $$
   \text{Cost of 5 pencils} = 5 \times 5 = 25 \text{₹}
   $$
