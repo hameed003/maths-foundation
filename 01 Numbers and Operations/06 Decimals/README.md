@@ -96,9 +96,9 @@ So, \( 57.348 = 50 + 7 + 0.3 + 0.04 + 0.008 \).
 
 ### **(a) Addition & Subtraction**
 
-- **Align the decimal points** before adding/subtracting.
+**Align the decimal points** before adding/subtracting.
 
-  - **Example (Addition)**:
+- **Example (Addition)**:
 
 $$
   \begin{aligned}
