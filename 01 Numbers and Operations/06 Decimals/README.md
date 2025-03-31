@@ -113,10 +113,10 @@ There is a mistake in the subtraction result. Let's correct it step by step:
 
 $$
 \begin{array}{r}
-  15.23 \\
--  4.7 \\
-  \hline
-  10.53 \\
+  $15.23 \\$
+$- \ 4.7 \\$
+  $\hline$
+  $10.53 \\$
 \end{array}
 $$
 
