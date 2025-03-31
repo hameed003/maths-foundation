@@ -101,49 +101,31 @@ So, \( 57.348 = 50 + 7 + 0.3 + 0.04 + 0.008 \).
   - **Example (Addition)**:
 
     $$
-    \begin{array}{r}
+    \begin{aligned}{r}
     15.23 \\
     -  4.7 \\
       \hline
       19.93 \\
-      \end{array}
+      \end{aligned}
     $$
 
 There is a mistake in the subtraction result. Let's correct it step by step:
 
 $$
-\begin{array}{r}
-  $15.23 \\$
-$- \ 4.7 \\$
+\begin{aligned}{r}
+  15.23 \\
+-  4.7 \\
   $\hline$
-  $10.53 \\$
-\end{array}
+  10.53 \\
+\end{aligned}
 $$
 
 - **Example (Subtraction)**:
 
 $$
 \begin{aligned}
-  & \phantom{-}8.50 \\
-  & -3.25 \\
-  \hline
-  &  5.25
-\end{aligned}
-$$
-
-$$
-\begin{aligned}
-  & \hphantom{-}8.50 \\
-  & -3.25 \\
-  \hline
-  & 5.25
-\end{aligned}
-$$
-
-$$
-\begin{aligned}
-  &  8.50  \\
-  & 3.25  \\
+   8.50  \\
+   -3.25  \\
   \hline
   &  5.25
 \end{aligned}
