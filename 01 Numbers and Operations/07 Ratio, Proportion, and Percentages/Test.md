@@ -115,14 +115,18 @@ Simplify **`2.5:7.5`**
 Simplify **`2.5:7.5`**
 
 1. Convert to whole numbers by multiplying by **10**:
-   $$
-   (2.5 \times 10) : (7.5 \times 10) = 25:75
-   $$
+
+$$
+(2.5 \times 10) : (7.5 \times 10) = 25:75
+$$
+
 2. Find GCD (**GCD of 25 and 75 = 25**):
-   $$
-   \frac{25}{25} : \frac{75}{25} = 1:3
-   $$
-   ✅ **Final Answer: 1:3**
+
+$$
+\frac{25}{25} : \frac{75}{25} = 1:3
+$$
+
+✅ **Final Answer: 1:3**
 
 **Example 2**:
 
@@ -139,9 +143,11 @@ Simplify **$\frac{6}{8} : \frac{9}{12}$**
 
 1. Convert to whole numbers by finding the **LCM of denominators (8 and 12 = 24)**
 2. Multiply both fractions by **24**:
-   $$
-   \left(\frac{6}{8} \times 24\right) : \left(\frac{9}{12} \times 24\right) = 18:18
-   $$
+
+$$
+\left(\frac{6}{8} \times 24\right) : \left(\frac{9}{12} \times 24\right) = 18:18
+$$
+
 3. Simplify:
    $$
    18:18 = 1:1

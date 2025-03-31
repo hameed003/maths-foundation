@@ -17,6 +17,18 @@ $$
 \text{Ratio} = 10:15 = \frac{10}{15} = \frac{2}{3}
 $$
 
+$$
+\mathrm{Ratio} = 10:15 = \frac{10}{15} = \frac{2}{3}
+$$
+
+$$
+\textrm{Ratio} = 10:15 = \frac{10}{15} = \frac{2}{3}
+$$
+
+$$
+\text{Ratio: } 10:15 = \frac{10}{15} = \frac{2}{3}
+$$
+
 (After simplifying, the ratio is **2:3**)
 
 ---

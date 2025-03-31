@@ -364,6 +364,6 @@ An **inverse element** is a number that, when combined with another number in an
 
 ---
 
-These properties are essential in simplifying expressions, solving equations, and understanding algebra. Let me know if you need further explanations! 😊
+These properties are essential in simplifying expressions, solving equations, and understanding algebra.
 
 </details>
