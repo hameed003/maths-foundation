@@ -232,7 +232,13 @@ Find the **largest number** that divides both terms of the ratio.
 
 **Step 3: Divide Both Terms by the GCD**
 
-$$\frac{36}{12} : \frac{48}{12} = 3:4$$
+$$
+\frac{36}{12} : \frac{48}{12} = 3:4
+$$
+
+\[
+\frac{36}{12} : \frac{48}{12} = 3:4
+\]
 
 So, **36:48** simplifies to **3:4**.
 
