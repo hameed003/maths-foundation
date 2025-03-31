@@ -90,6 +90,12 @@ So, \( 57.348 = 50 + 7 + 0.3 + 0.04 + 0.008 \).
     - Subtract: $10x - x = 3.\overline{3} - 0.\overline{3}$
     - $9x = 3$ → $x = \frac{3}{9} = \frac{1}{3}$
 
+$$
+-9x = 3 \quad \Rightarrow \quad x = \frac{3}{-9} = -\frac{1}{3}
+$$
+
+$-9x = 3 \quad \Rightarrow \quad x = \frac{3}{-9} = -\frac{1}{3}$
+
 ---
 
 ## **5. Operations on Decimals**
