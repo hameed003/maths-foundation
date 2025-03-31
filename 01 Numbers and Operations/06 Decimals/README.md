@@ -109,17 +109,6 @@ $$
 \end{aligned}
 $$
 
-There is a mistake in the subtraction result. Let's correct it step by step:
-
-$$
-\begin{aligned}
-  15.23 \\
- -4.70 \\
-  \hline
-  10.53 \\
-\end{aligned}
-$$
-
 - **Example (Subtraction)**:
 
 $$
