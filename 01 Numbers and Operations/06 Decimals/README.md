@@ -100,14 +100,14 @@ So, \( 57.348 = 50 + 7 + 0.3 + 0.04 + 0.008 \).
 
   - **Example (Addition)**:
 
-  $$
-  \begin{aligned}
+$$
+\begin{aligned}
   15.23 \\
-  -4.7 \\
+  -4.70 \\
   \hline
   19.93 \\
-  \end{aligned}
-  $$
+\end{aligned}
+$$
 
 There is a mistake in the subtraction result. Let's correct it step by step:
 
