@@ -26,7 +26,7 @@ $$
 $$
 
 $$
-\text{Ratio: } 10:15 = \frac{10}{15} = \frac{2}{3}
+{Ratio: } 10:15 = \frac{10}{15} = \frac{2}{3}
 $$
 
 (After simplifying, the ratio is **2:3**)
