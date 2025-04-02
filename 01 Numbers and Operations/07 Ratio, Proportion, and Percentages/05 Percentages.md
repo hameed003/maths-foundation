@@ -40,7 +40,7 @@ $$
 **Example**: Convert **3/5** to percentage.
 
 $$
-\left( \frac{3}{5} \right) \times 100 = 60%
+\left( \frac{3}{5} \right) \times 100 = 60\%
 $$
 
 2. **Decimal to Percentage**:
@@ -66,6 +66,14 @@ $$
 $$
 20\% = \frac{20}{100} = 0.2
 $$
+
+$20\% = \frac{20}{100} = 0.2$
+
+$$
+20\text{%} = \frac{20}{100} = 0.2
+$$
+
+$20\text{\%} = \frac{20}{100} = 0.2$
 
 4. **Percentage to Fraction**:
 
