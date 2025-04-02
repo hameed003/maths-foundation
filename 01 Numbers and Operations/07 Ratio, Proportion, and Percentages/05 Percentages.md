@@ -84,7 +84,8 @@ $$
 | **Form**                  | **Example (25%)**                                                  | **Conversion Rule**       |
 | ------------------------- | ------------------------------------------------------------------ | ------------------------- |
 | **Percentage → Fraction** | 25% = $\frac{25}{100} = \frac{1}{4}$                               | Divide by 100 & simplify. |
-| **Fraction → Percentage** | `math\frac{3}{5} = \left( \frac{3}{5} \times 100 \right)\% = 60\%` | Multiply by 100.          |
+| **Fraction → Percentage** | $ \frac{3}{5} = \left( \frac{3}{5} \times 100 \right) $%$ = 60 $%$ |
+| Multiply by 100.          |
 | **Percentage → Decimal**  | 40% = $\frac{40}{100} = 0.40$                                      | Divide by 100.            |
 | **Decimal → Percentage**  | 0.75 = $0.75 \times 100 = 75\%$                                    | Multiply by 100.          |
 
