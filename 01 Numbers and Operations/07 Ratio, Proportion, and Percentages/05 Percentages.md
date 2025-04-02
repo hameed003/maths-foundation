@@ -18,6 +18,10 @@ For example:
 \text{Percentage (\%)} = \left( \frac{\text{Part}}{\text{Whole}} \right) \times 100
 ```
 
+$$
+\text{Percentage (\%)} = \left( \frac{\text{Part}}{\text{Whole}} \right) \times 100
+$$
+
 ### **Why Use Percentages?**
 
 - To **compare** quantities easily.
@@ -37,7 +41,15 @@ For example:
 \text{Percentage} = \left( \frac{\text{Numerator}}{\text{Denominator}} \right) \times 100
 ```
 
+$$
+\text{Percentage} = \left( \frac{\text{Numerator}}{\text{Denominator}} \right) \times 100
+$$
+
 **Example**: Convert **3/5** to percentage.
+
+```math
+\left( \frac{3}{5} \right) \times 100 = 60\%
+```
 
 $$
 \left( \frac{3}{5} \right) \times 100 = 60\%
