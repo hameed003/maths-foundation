@@ -1,4 +1,5 @@
-<details><summary>What is a Percentage<summary></details>
+<details><summary>What is a Percentage<summary>
+
 # **Percentages: A Complete Guide with Examples**
 
 ## **1. What is a Percentage?**
