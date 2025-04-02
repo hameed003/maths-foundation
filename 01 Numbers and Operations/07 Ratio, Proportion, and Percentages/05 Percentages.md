@@ -1,5 +1,3 @@
-<details><summary>What is a Percentage</summary>
-
 # **Percentages: A Complete Guide with Examples**
 
 ## **1. What is a Percentage?**
@@ -358,7 +356,3 @@ where:
 - **Key Skills**: Conversion (↔ fractions/decimals), profit/loss, and % change.
 
 Mastering percentages helps in **daily finances, shopping, banking, and exams**! 🚀
-
-</details>
-
-<details><summary>hi</summary></details>
