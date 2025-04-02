@@ -18,10 +18,6 @@ For example:
 \text{Percentage (\%)} = \left( \frac{\text{Part}}{\text{Whole}} \right) \times 100
 ```
 
-$$
-\text{Percentage (\%)} = \left( \frac{\text{Part}}{\text{Whole}} \right) \times 100
-$$
-
 ### **Why Use Percentages?**
 
 - To **compare** quantities easily.
@@ -41,19 +37,11 @@ $$
 \text{Percentage} = \left( \frac{\text{Numerator}}{\text{Denominator}} \right) \times 100
 ```
 
-$$
-\text{Percentage} = \left( \frac{\text{Numerator}}{\text{Denominator}} \right) \times 100
-$$
-
 **Example**: Convert **3/5** to percentage.
 
 ```math
 \left( \frac{3}{5} \right) \times 100 = 60\%
 ```
-
-$$
-\left( \frac{3}{5} \right) \times 100 = 60\%
-$$
 
 2. **Decimal to Percentage**:
 
@@ -63,15 +51,15 @@ $$
 
 **Example**: Convert **0.75** to percentage.
 
-$$
+```math
 0.75 \times 100 = 75\%
-$$
+```
 
 3. **Percentage to Decimal**:
 
-$$
+```math
 \text{Decimal} = \frac{\text{Percentage}}{100}
-$$
+```
 
 **Example**: Convert **20%** to decimal.
 
@@ -81,15 +69,15 @@ $$
 
 4. **Percentage to Fraction**:
 
-$$
+```math
 \text{Fraction} = \frac{\text{Percentage}}{100}
-$$
+```
 
 **Example**: Convert **40%** to fraction.
 
-$$
+```math
 \frac{40}{100} = \frac{2}{5}
-$$
+```
 
 ### **Examples In Tabular Form:**
 
@@ -106,17 +94,17 @@ $$
 
 **Formula**:
 
-$$
+````math
 \text{Part} = \left( \frac{\text{Percentage}}{100} \right) \times \text{Whole}
-$$
+math
 
 **Example**:
 
 - What is **20% of 150**?
 
-$$
+```math
 \left( \frac{20}{100} \right) \times 150 = 0.2 \times 150 = 30
-$$
+````
 
 ---
 
@@ -124,17 +112,17 @@ $$
 
 **Formula**:
 
-$$
+```math
 \text{Percentage} = \left( \frac{\text{Part}}{\text{Whole}} \right) \times 100
-$$
+```
 
 **Example**:
 
 - **15 is what % of 60**?
 
-$$
+```math
 \left( \frac{15}{60} \right) \times 100 = 25\%
-$$
+```
 
 ---
 
@@ -142,49 +130,49 @@ $$
 
 **Formula**:
 
-$$
+```math
 \text{\% Change} = \left( \frac{\text{New Value - Old Value}}{\text{Old Value}} \right) \times 100
-$$
+```
 
 OR;
 
-$$
+```math
 \text{Percentage Change} = \left( \frac{\text{Change in Value}}{\text{Original Value}} \right) \times 100
-$$
+```
 
 **Examples**:
 
 1. **Price Increase**: A shirt’s price rose from ₹500 to ₹600. What is the % increase?
 
-$$
+```math
 \left( \frac{600 - 500}{500} \right) \times 100 = 20\% \text{ increase}
-$$
+```
 
 2. **Population Decrease**: A town’s population fell from 2000 to 1800. What is the % decrease?
 
-$$
+```math
 \left( \frac{1800 - 2000}{2000} \right) \times 100 = 10\% \text{ decrease}
-$$
+```
 
 ---
 
 ### **(E) Percentage Change Formula**
 
-$$
+```math
 \text{New Value} = \text{Original Value} \times \left(1 \pm \frac{\text{Percentage Change}}{100} \right)
-$$
+```
 
 Use **+** for increase and **−** for decrease.
 
 ### **Example: Increasing ₹600 by 15%**
 
-$$
+```math
 \text{New Value} = 600 \times \left(1 + \frac{15}{100} \right)
-$$
+```
 
-$$
+```math
 = 600 \times 1.15 = ₹690
-$$
+```
 
 ✅ **Answer: ₹690**
 
@@ -194,23 +182,23 @@ $$
 
 To compare two values in percentage terms:
 
-$$
+```math
 \text{Percentage Difference} = \left( \frac{\text{Difference}}{\text{Average of Two Values}} \right) \times 100
-$$
+```
 
 ### **Example: Comparing 80 and 100**
 
-$$
+```math
 \text{Difference} = 100 - 80 = 20
-$$
+```
 
-$$
+```math
 \text{Average} = \frac{80 + 100}{2} = 90
-$$
+```
 
-$$
+```math
 \text{Percentage Difference} = \left( \frac{20}{90} \right) \times 100 = 22.22\%
-$$
+```
 
 ✅ **Answer: 22.22% difference**
 
@@ -245,15 +233,15 @@ _Solution:_
 
 1. **Calculate the Profit Amount:**
 
-$$
+```math
 \text{Profit} = \text{Selling Price} - \text{Cost Price} = ₹250 - ₹200 = ₹50
-$$
+```
 
 2. **Compute the Profit Percentage:**
 
-$$
+```math
 \text{Profit \%} = \left( \frac{\text{Profit}}{\text{Cost Price}} \right) \times 100 = \left( \frac{50}{200} \right) \times 100 = 25\%
-$$
+```
 
 _Final Answer:_
 
@@ -261,19 +249,19 @@ The profit percentage is **25%**.
 
 #### **Loss Percentage Formula**
 
-$$
+```math
 \text{Loss \%} = \left( \frac{\text{Loss}}{\text{Cost Price}} \right) \times 100
-$$
+```
 
 **Example:** A shopkeeper buys a watch for ₹1500 and sells it for ₹1200. Find the loss percentage.
 
-$$
+```math
 \text{Loss} = 1500 - 1200 = 300
-$$
+```
 
-$$
+```math
 \text{Loss \%} = \left( \frac{300}{1500} \right) \times 100 = 20\%
-$$
+```
 
 _Final Answer:_
 
@@ -285,9 +273,9 @@ _Final Answer:_
 
 **Formula**:
 
-$$
+```math
 \text{Interest} = \left( \frac{P \times R \times T}{100} \right)
-$$
+```
 
 where:
 
@@ -299,9 +287,9 @@ where:
 
 - ₹5000 invested at **4% interest for 3 years** earns:
 
-$$
+```math
 \text{Interest} = \frac{5000 \times 4 \times 3}{100} = ₹600
-$$
+```
 
 ---
 
@@ -333,21 +321,21 @@ $$
 
 1. **What is 35% of 200?**
 
-$$
+```math
 0.35 \times 200 = 70
-$$
+```
 
 2. **If 40% of a number is 80, what is the number?**
 
-$$
+```math
 \frac{80}{0.40} = 200
-$$
+```
 
 3. **A phone’s price increased from ₹15,000 to ₹18,000. What is the % increase?**
 
-$$
+```math
 \left( \frac{18000 - 15000}{15000} \right) \times 100 = 20\%
-$$
+```
 
 ---
 
