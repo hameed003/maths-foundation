@@ -94,9 +94,9 @@ $$
 
 **Formula**:
 
-````math
+```math
 \text{Part} = \left( \frac{\text{Percentage}}{100} \right) \times \text{Whole}
-math
+```
 
 **Example**:
 
@@ -104,7 +104,7 @@ math
 
 ```math
 \left( \frac{20}{100} \right) \times 150 = 0.2 \times 150 = 30
-````
+```
 
 ---
 
