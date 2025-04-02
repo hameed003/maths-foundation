@@ -91,6 +91,8 @@ $$
 
 ---
 
+$\text{20%} = \frac{20}{100} = 0.2$
+
 ### **(B) Finding a Percentage of a Number**
 
 **Formula**:
