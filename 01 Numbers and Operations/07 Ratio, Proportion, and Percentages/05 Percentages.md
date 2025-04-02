@@ -63,9 +63,9 @@ $$
 
 **Example**: Convert **20%** to decimal.
 
-$$
-20 \text\%\ = \frac{20}{100} = 0.2
-$$
+```math
+20 \text\% = \frac{20}{100} = 0.2
+```
 
 20% = $\frac{20}{100} = 0.2$
 
