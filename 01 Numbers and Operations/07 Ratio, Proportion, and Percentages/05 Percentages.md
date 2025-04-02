@@ -14,9 +14,9 @@ For example:
 
 ### **Formula**:
 
-$$
+```math
 \text{Percentage (\%)} = \left( \frac{\text{Part}}{\text{Whole}} \right) \times 100
-$$
+```
 
 ### **Why Use Percentages?**
 
@@ -33,9 +33,9 @@ $$
 
 1. **Fraction to Percentage**:
 
-$$
+```math
 \text{Percentage} = \left( \frac{\text{Numerator}}{\text{Denominator}} \right) \times 100
-$$
+```
 
 **Example**: Convert **3/5** to percentage.
 
@@ -67,18 +67,16 @@ $$
 20 \text\% = \frac{20}{100} = 0.2
 ```
 
-20% = $\frac{20}{100} = 0.2$
-
 4. **Percentage to Fraction**:
 
 $$
-   \text{Fraction} = \frac{\text{Percentage}}{100}
+\text{Fraction} = \frac{\text{Percentage}}{100}
 $$
 
 **Example**: Convert **40%** to fraction.
 
 $$
-   \frac{40}{100} = \frac{2}{5}
+\frac{40}{100} = \frac{2}{5}
 $$
 
 ### **Examples In Tabular Form:**
