@@ -360,4 +360,5 @@ where:
 Mastering percentages helps in **daily finances, shopping, banking, and exams**! 🚀
 
 </details>
-<details><summary><summary></details>
+
+<details><summary>hi</summary></details>
