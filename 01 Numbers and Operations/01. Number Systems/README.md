@@ -89,7 +89,7 @@ $$
 ## **6. Real Numbers (R)**
 
 - **Definition**: The set of **all rational and irrational numbers**.
-- **Set Notation**: $\mathbb{R} = \mathbb{Q} \cup \mathbb{R}$
+- **Set Notation**: $\mathbb{R} = \mathbb{Q} \cup \mathbb{I}$
 - **Properties**:
   - Includes **natural numbers, whole numbers, integers, rational numbers, and irrational numbers**.
   - Real numbers can be represented on a number line.
